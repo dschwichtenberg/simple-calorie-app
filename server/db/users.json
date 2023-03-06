@@ -1,0 +1,29 @@
+[
+  {
+    "userId": "user1",
+    "userName": "user1",
+    "password": "pwd1",
+    "isAdmin": false,
+    "dailyCalorieLimit": 2100,
+    "monthlyPriceLimit": 1000,
+    "token": "e3a7f464-e9f3-4821-81cd-49506fc89b99"
+  },
+  {
+    "userId": "user2",
+    "userName": "user2",
+    "password": "pwd2",
+    "isAdmin": false,
+    "dailyCalorieLimit": 2100,
+    "monthlyPriceLimit": 1000,
+    "token": "88712132-cbf2-43c6-97ac-a854b80e4379"
+  },
+  {
+    "userId": "admin",
+    "userName": "admin",
+    "password": "admin",
+    "isAdmin": true,
+    "dailyCalorieLimit": 2100,
+    "monthlyPriceLimit": 1000,
+    "token": "d1372a1e-4c38-48eb-a81b-58efd3c62355"
+  }
+]
